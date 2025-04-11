@@ -1,6 +1,6 @@
-body{
+body {
     height: 100vh;
-    background: url('files/imagemDeFundo.jpg');
+    background: url('/files/imagemDeFundo.jpg');
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
