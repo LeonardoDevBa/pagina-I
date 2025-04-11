@@ -1,6 +1,6 @@
 body {
     height: 100vh;
-    background: url('/files/imagemDeFundo.jpg') !important;
+    background: url('https://LeonardoDevBa.github.io/pagina-I/files/imagemDeFundo.jpg');
     background-size: cover;
     background-attachment: fixed;
     overflow: hidden;
